@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayush-daga
+- 👋 Hi, I’m Ionic
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Cmputer Science at IIITH
 
